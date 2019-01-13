@@ -1,0 +1,54 @@
+body {
+    background-image: url("../images/memphis-colorful.png")
+}
+
+div {
+    background-color: white;
+    margin: 10px;
+    width: 50%;
+}
+
+div {
+    border: solid 2px antiquewhite;
+    padding: 10px;
+}
+
+h1, h2, span {
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    font-size: 30px;
+    color: #fefefe;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.header, div.gems {
+    background-color: #ffb379;
+}
+
+div.header, div.intro {
+    width: 50%;
+}
+
+.numbersToMatch, .winsAndLosses {
+    float: left;
+    width: 23.5%;
+    height: 60px;
+}
+
+.gems {
+    clear: both;
+    
+}
+
+.gemImage {
+    height: 60px;
+    margin-left: 62px;
+    margin-right: 62px;
+}
+
